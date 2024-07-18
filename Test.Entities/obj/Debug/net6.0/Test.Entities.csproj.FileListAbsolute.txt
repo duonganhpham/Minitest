@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\bin\Debug\net6.0\Test.Entities.deps.json
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\bin\Debug\net6.0\Test.Entities.runtimeconfig.json
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\bin\Debug\net6.0\Test.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\bin\Debug\net6.0\Test.Entities.pdb
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.AssemblyInfo.cs
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.sourcelink.json
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\refint\Test.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.pdb
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\Test.Entities.genruntimeconfig.cache
+C:\Users\PC\source\repos\study-webapi-net\Test\Test.Entities\obj\Debug\net6.0\ref\Test.Entities.dll
